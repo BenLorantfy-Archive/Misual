@@ -1,0 +1,23 @@
+{
+  "name": "misual",
+  "version": "1.0.0",
+  "description": "Misual is a small library for visualizing mathematical functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenLorantfy/Misual.git"
+  },
+  "keywords": [
+    "math",
+    "visualization"
+  ],
+  "author": "Ben Lorantfy <ben@benlorantfy.com> (http://benlorantfy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenLorantfy/Misual/issues"
+  },
+  "homepage": "https://github.com/BenLorantfy/Misual#readme"
+}
